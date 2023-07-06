@@ -1,0 +1,8 @@
+rootProject.name = 'OrchestrationAndChoreography'
+include 'order'
+include 'common'
+include 'notification'
+include 'notification'
+include 'payment'
+include 'stock'
+
